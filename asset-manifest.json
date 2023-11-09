@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tabsdropdown/static/css/main.6d562e64.css",
-    "main.js": "/tabsdropdown/static/js/main.06afdc07.js",
-    "index.html": "/tabsdropdown/index.html",
-    "static/media/search.svg": "/tabsdropdown/static/media/search.bd281d8ac117cc8311100078d40543a6.svg",
-    "static/media/close.svg": "/tabsdropdown/static/media/close.70cac315d9157cd77c535439103bc40f.svg",
-    "static/media/tick.svg": "/tabsdropdown/static/media/tick.9904ba33d9301ed448c1975bb16be015.svg",
-    "main.6d562e64.css.map": "/tabsdropdown/static/css/main.6d562e64.css.map",
-    "main.06afdc07.js.map": "/tabsdropdown/static/js/main.06afdc07.js.map"
+    "main.css": "//strongbeauty.github.io/TabsDropDown/static/css/main.6d562e64.css",
+    "main.js": "//strongbeauty.github.io/TabsDropDown/static/js/main.b99174e8.js",
+    "index.html": "//strongbeauty.github.io/TabsDropDown/index.html",
+    "static/media/search.svg": "//strongbeauty.github.io/TabsDropDown/static/media/search.bd281d8ac117cc8311100078d40543a6.svg",
+    "static/media/close.svg": "//strongbeauty.github.io/TabsDropDown/static/media/close.70cac315d9157cd77c535439103bc40f.svg",
+    "static/media/tick.svg": "//strongbeauty.github.io/TabsDropDown/static/media/tick.9904ba33d9301ed448c1975bb16be015.svg",
+    "main.6d562e64.css.map": "//strongbeauty.github.io/TabsDropDown/static/css/main.6d562e64.css.map",
+    "main.b99174e8.js.map": "//strongbeauty.github.io/TabsDropDown/static/js/main.b99174e8.js.map"
   },
   "entrypoints": [
     "static/css/main.6d562e64.css",
-    "static/js/main.06afdc07.js"
+    "static/js/main.b99174e8.js"
   ]
 }
