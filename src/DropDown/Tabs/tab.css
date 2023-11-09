@@ -1,0 +1,21 @@
+.tab {
+  color: var(--primary-bd);
+  cursor: pointer;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.tab:hover {
+  color: var(--text-primary);
+}
+
+.tab__selected {
+  color: var(--text-primary);
+  border-bottom: 1px solid var(--text-primary);
+}
+
+.tab__selected:hover {
+  border-bottom: 2px solid var(--text-primary);
+}

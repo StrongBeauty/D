@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  align-items: center;
+  height: 46px;
+  border-radius: 12px;
+  padding: 0 8px 0 16px;
+  background: var(--neuteral-bg);
+  border: 1px solid var(--primary-bd);
+  gap: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.header:hover,
+.header:active,
+.header__fill {
+  border: 1px solid var(--primary-bd-hover);
+}

@@ -1,0 +1,33 @@
+.circle,
+.disabled {
+  width: 32px;
+  height: 32px;
+  border-radius: 100px;
+  border: 1px solid var(--primary-bd);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  margin-left: auto;
+}
+
+.disabled {
+  cursor: default;
+  opacity: 70%;
+}
+
+.circle:hover {
+  background: var(--neuteral-bg);
+}
+
+.selected {
+  background: #0067fe;
+}
+
+.selected__disabled {
+  background: #0067fe;
+}
+
+.circle.selected:hover {
+  background: #085edb;
+}

@@ -1,0 +1,37 @@
+li {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.item {
+  height: 48px;
+  padding: 0 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item:hover {
+  background-color: var(--neuteral-bg);
+}
+
+.icon {
+  margin-right: 8px;
+  border-radius: 10px;
+  height: 18px;
+}
+
+.checkbox {
+  width: 20px;
+  height: 20px;
+  border-radius: 6px;
+  border: 2px solid #c1c1c1;
+  margin-left: auto;
+  position: relative;
+  cursor: pointer;
+}
+
+.checked {
+  background: #005ffd;
+  border-color: #0049d9;
+}

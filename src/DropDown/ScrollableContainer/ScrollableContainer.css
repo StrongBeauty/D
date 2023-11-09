@@ -1,0 +1,39 @@
+.selected__options {
+  height: 31px;
+  padding: 12px 16px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  border-bottom: 1px solid var(--primary-bd);
+  overflow-x: hidden;
+  overflow-y: hidden;
+  cursor: grab;
+}
+
+.selected__options:active {
+  cursor: grabbing;
+}
+
+.selected__options::-webkit-scrollbar {
+  display: none;
+}
+
+.selected__option {
+  height: 7px;
+  padding: 12px 6px;
+  background: var(--neuteral-bg);
+  border: 1px solid var(--primary-bd);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: default;
+}
+
+.remove__option {
+  cursor: pointer;
+  height: 15px;
+}
